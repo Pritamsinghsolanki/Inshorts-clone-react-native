@@ -1,13 +1,13 @@
 {
   "main": "node_modules/expo/AppEntry.js",
-  "homepage": "https://github.com/Pritamsinghsolanki/Inshorts-clone-react-native.git",
+  "homepage": "https://github.com/Pritamsinghsolanki/inshort-reactnative.git",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject",
-     "predeploy": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
